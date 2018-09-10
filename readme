@@ -1,0 +1,5 @@
+基于python 3.0
+pip install requests
+pip install yagmail
+
+在report目录下又一个pictrue的目录，用于存放bug截图
